@@ -8,3 +8,5 @@
 
 `Python3 parse_web_cert.py https://x.x.x.x:9443`
 
+![1710596838974](Pictures/1710596838974.png)
+
