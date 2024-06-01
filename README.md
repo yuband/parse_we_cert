@@ -14,10 +14,10 @@
 python3 parse_web_cert.py https://x.x.x.x:443
 ```
 
-![1717217628426](Pictures\1717217628426.png)
+![1717217628426](Pictures/1717217628426.png)
 
 ```bash
 python3 fetch_web_icp_number.py -u http://220.249.121.106:7880
 ```
 
-![1717217720428](Pictures\1717217720428.png)
+![1717217720428](Pictures/1717217720428.png)
